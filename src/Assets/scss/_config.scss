@@ -33,7 +33,7 @@ a {
 
   &:hover {
     color: $red;
-    // @include transition(.4s ease-in-out);
+    @include transition(.4s ease-in-out);
     text-decoration: none;
   }
 
